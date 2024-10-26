@@ -1,0 +1,24 @@
+﻿.eip {
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.eip .eip-text {
+    font-weight: bold;
+    padding: 2px 3px;
+    border: 1px solid white;
+}
+
+.eip .eip-container {
+    display: inline;
+}
+
+.eip input {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 2px;
+    border: 1px solid #A0A0A0;
+    display: inline;
+    width: 250px;
+}

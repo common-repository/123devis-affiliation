@@ -1,0 +1,83 @@
+﻿.sm_multiplude_builder {
+   min-width:700px;
+   margin-bottom:10px;
+}
+
+.sm_multiplude_builder .questions_cntnr{
+ 
+   width:200px;
+   float:left;
+   min-height:300px;
+}
+.sm_multiplude_builder .steps{
+
+}
+
+.sm_multiplude_builder .steps .step h4{
+   margin:5px 5px;
+   padding-bottom:6px;
+   font-size:14px;
+   border-bottom:1px solid gray;
+}
+
+.sm_multiplude_builder .qlist {
+   min-height:300px;
+
+}
+
+.sm_multiplude_builder .steps .step{
+   border:1px solid gray;
+   background:snow;
+   -webkit-border-radius: 06px;
+   -moz-border-radius: 06px;
+   border-radius: 06px;
+   width:200px;
+   background:snow;
+   margin-right:10px;
+   margin-top:10px;
+   float:left;
+}
+
+.sm_multiplude_builder .question {
+   
+   margin-bottom:10px;
+   padding:3px;
+   
+}
+.sm_multiplude_builder .question .hdl {
+   background: url(../img/formtypesprite.png) no-repeat;
+
+   padding:11px;
+   margin-left:1px;
+   float:left;
+}
+
+.sm_multiplude_builder .radio .hdl {
+   background-position:-2px -3px;
+}
+.sm_multiplude_builder .checkbox .hdl {
+   background-position:-2px -40px;
+}
+.sm_multiplude_builder .select .hdl {
+   background-position:-2px -77px;
+}
+.sm_multiplude_builder .text .hdl {
+   background-position:-2px -50px;
+}
+.sm_multiplude_builder .textarea .hdl {
+   background-position:-1px -104px;
+}
+
+.sm_multiplude_builder  .lbl {
+}
+
+.sm_multiplude_builder .rm_step {
+   background:url(../img/close.png) 0 5px no-repeat;
+   float:right;
+   padding:11px;
+   cursor:pointer;   
+}
+
+.sm_multiplude_builder .clr {
+   clear:both;
+}

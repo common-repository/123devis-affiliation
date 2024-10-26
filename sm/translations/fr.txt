@@ -1,0 +1,15 @@
+﻿//translations for sm php lib
+* required fields : * champs obligatoires
+Get Leads : Valider
+Please fix these errors \: : Veuillez corriger ces erreurs \:
+Step : Étape
+Back : Précédent
+Continue : Suivant
+Get Quotes : Valider
+Other, please state : Si autre, précisez
+Choose : Choisissez
+Thank you : Merci pour votre demande
+<p>We received your information and one of our account managers will contact you shortly to help you get started and receive leads.</p> : <p>L'un de nos conseillers va maintenant traiter votre demande d'inscription.</p><p>Il vous confirmera votre inscription sous 48 heures.</p>
+Your service request has been successfully received : Votre demande de devis a bien été enregistrée
+We are currently looking for available service professionals from your area able to provide you with quotes.(up to 4 max) : Nous recherchons actuellement les professionnels disponibles en mesure de répondre à votre demande de devis (jusqu'à 5 au total).
+We will send you their contact details by email every time we find you a match. : Nous vous enverrons leurs coordonnées par email au fur et à mesure que nous les aurons identifiés.

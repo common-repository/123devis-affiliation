@@ -1,0 +1,147 @@
+﻿div.sm_title  {
+	font-size:18px;
+}
+div.sm_description {margin:10px 0;}
+form .sm_item{
+	margin: 7px 0;
+}
+form.sm_form label {
+	display:block;
+}
+form.sm_form label.sm_input_label{
+	display:inline;
+}
+div.sm_cols,
+div.sm_interview {
+	margin-bottom:20px;
+}
+div.sm_interview {
+	*height:200px;
+	min-height:200px;
+}
+div.sm_splitcol_2 {
+	float:left;
+	width:48%;
+}
+div.sm_splitcol_3 {
+	float:left;
+	width:32%;
+}
+div.sm_splitcol_4 {
+	float:left;
+	width:24%;
+}
+br.sm_clear {
+	clear:both;
+	line-height:0px;margin:0px;padding:0px;
+	font-size:1px;
+}
+div.sm_error_container {
+	//border:1px solid red;
+
+}
+ul.sm_errors {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+ul.sm_errors li {
+	margin: 0;
+	color:red;
+	padding:2px;
+	font-weight:bold;
+	font-size:11px;
+}
+
+.sm_interview textarea {
+	width:300px;
+	height:100px;
+}
+
+select {
+	background: #fafafa;
+	-moz-box-shadow: inset 0 1px 1px rgba(0,0,0,0.1);
+	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.1);
+	box-shadow: inset 0 1px 1px rgba(0,0,0,0.1);
+	border: 1px solid #ddd;
+	/*color: #888;*/
+	padding: 3px;
+}
+
+.sm_other_wrap {
+	margin-top:5px;
+}
+
+/*for validation plugin*/
+label.error {
+	color: red;
+	font-weight:bold;
+	float: none;
+	padding-left: 0.5em;
+	vertical-align: top;
+}
+label.warning {
+	color: orange;
+	float: none;
+	font-weight: bold;
+	padding-left: 0.5em;
+	vertical-align: top;
+}
+a.sm_cp_link {margin:0 5px;}
+
+.sm_form .sm_form_step {
+	border:1px solid gray;
+	float:right;
+	padding:4px;
+	width:auto;
+}
+
+/*Search box*/
+div.sm_search_box {
+	margin:10px 0;
+	padding:3px 10px;
+	border:2px solid #99C8F6;
+	border-radius:8px;
+}
+div.sm_search_box label.sm_label {
+	padding:0px 0 4px 30px;
+	background:url(../../../ui/img/sm_logo_25.png) no-repeat 0 0px;
+}
+
+div#cp_msg {
+	font-size:11px;
+	font-weight:bold;
+}
+div.cp_error {
+	border:1px solid gray;
+	background:white;
+	color:red;
+	padding:10px;
+}
+div.col3{
+	width:33%;
+	float:left;
+}
+
+div#sm_chosen_town {display:none;}
+div.sm_other_link {margin-top:4px;}
+a#sm_change_town_link{font-size:10px;}
+
+div.sm_required_declaration {
+	font-size:.8em;
+	color:gray;
+}
+
+div.sm_worktype_list label {display:inline;}
+
+div#form_data__checkbox_test_wrap {
+	background-color:#FFA349;
+	color:#000;
+	text-align: center;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	padding:3px;
+	white-space: normal;
+}

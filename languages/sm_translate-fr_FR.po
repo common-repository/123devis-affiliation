@@ -1,0 +1,965 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Servicemagic API\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-25 11:55+0100\n"
+"PO-Revision-Date: 2016-04-25 11:55+0100\n"
+"Last-Translator: Frederic GILLES <f.gilles@servicemagic.eu>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././shortcodes.php:66 .././shortcodes.php:73
+msgid "Interview not available"
+msgstr "Formulaire non disponible"
+
+#: .././shortcodes.php:112
+msgid "Home list not available"
+msgstr "Liste des catégories non disponible"
+
+#: .././shortcodes.php:157 .././shortcodes.php:164
+msgid "Category not available"
+msgstr "Catégorie non disponible"
+
+#: .././administration.php:13
+msgid "ServiceMagic"
+msgstr "123devis"
+
+#: .././administration.php:15
+msgid "Help"
+msgstr "Aide"
+
+#: .././administration.php:15
+msgid "First steps, help and Suggestions"
+msgstr "Premiers pas, aide et suggestions"
+
+#: .././administration.php:18 .././forms/settings.php:3
+msgid "Credentials"
+msgstr "Identifiants"
+
+#: .././administration.php:23 .././forms/embeddable_thanks.php:2
+#: .././forms/embeddables_list.php:2
+msgid "Embeddable Forms"
+msgstr "Formulaires intégrables"
+
+#: .././administration.php:24 .././administration.php:25
+#: .././administration.php:26
+msgid "Embeddable Form"
+msgstr "Formulaires intégrables"
+
+#: .././administration.php:29 .././forms/form_defaults.php:8
+#: .././forms/form_defaults_thanks.php:1
+msgid "Form Options"
+msgstr "Options des formulaires"
+
+#: .././administration.php:34 .././forms/docs_root.php:1
+msgid "Documentation"
+msgstr "Documentation"
+
+#: .././administration.php:37
+msgid "History"
+msgstr "Historique"
+
+#: .././administration.php:58
+msgid "The Username is required"
+msgstr "Le login est néccessaire"
+
+#: .././administration.php:59
+msgid "The Password is required"
+msgstr "Le mot de passe est nécessaire"
+
+#: .././administration.php:60
+msgid "The API Url must be a valid url"
+msgstr "L'URL de l'API doit être un url valide"
+
+#: .././administration.php:82
+msgid ""
+"There was a problem connecting to the ServiceMagic API.  Please check your "
+"API Url settings or contact your Affiliate Representative."
+msgstr ""
+"Un problème est survenu lors de la tentative de connexion à l’API. Veuillez "
+"réessayer ou prendre contact avec votre responsable 123devis."
+
+#: .././administration.php:97
+msgid "Login details not found"
+msgstr "Identifiants non trouvé"
+
+#: .././administration.php:128
+msgid "Credentials Saved"
+msgstr "Identifiants Sauvegardés"
+
+#: .././administration.php:131
+msgid "Settings not accepted"
+msgstr "Paramètres non sauvegardés"
+
+#: .././administration.php:132 .././administration.php:197
+#: .././administration.php:413 .././administration.php:414
+msgid "Please fix these errors"
+msgstr "Veuillez corriger ces erreurs"
+
+#: .././administration.php:184
+msgid "The Font Size must be an integer"
+msgstr "La taille de police doit être un numéro entier"
+
+#: .././administration.php:185
+msgid "The Font Color must be a valid hex value"
+msgstr "La couleur de police doit être une valeur valide"
+
+#: .././administration.php:186
+msgid "The Background Color must be a valid hex value"
+msgstr "La couleur de fond doit être une valeur valide"
+
+#: .././administration.php:187
+msgid "The Cache mechanism must be selected"
+msgstr "Le mécanisme de cache doit être sélectionné"
+
+#: .././administration.php:221
+msgid "Options Saved!"
+msgstr "Options sauvegardées"
+
+#: .././administration.php:261
+msgid "Item archived"
+msgstr "Formulaire archivé"
+
+#: .././administration.php:262
+msgid "Item permanently deleted"
+msgstr "Formulaire supprimé de manière permanente"
+
+#: .././administration.php:263
+msgid "Item de-archived"
+msgstr "Formulaire désarchivé"
+
+#: .././administration.php:328 .././forms/embeddable_sr.php:12
+msgid "All categories"
+msgstr "Toutes catégories"
+
+#: .././administration.php:345 .././administration.php:485
+msgid "Name is required"
+msgstr "Veuillez entrer un nom"
+
+#: .././administration.php:346
+msgid "Please select a ServiceMagic form"
+msgstr "Veuillez sélectionner un formulaire 123devis"
+
+#: .././administration.php:358 .././administration.php:498
+msgid "This Name is too short or not useable"
+msgstr "Ce nom est trop court ou pas utilisable"
+
+#: .././administration.php:368 .././administration.php:510
+msgid "This Name is not unique"
+msgstr "Le nom doit être unique"
+
+#: .././administration.php:407 .././administration.php:548
+msgid "Saved"
+msgstr "Sauvegardé"
+
+#: .././administration.php:410 .././administration.php:551
+msgid "Return to embedable forms list"
+msgstr "Retour à la liste de formulaires intégrables"
+
+#: .././administration.php:424
+msgid ""
+"This form has invalid charachters in the form identifyer. Only letters, "
+"numbers and underscores are permissible."
+msgstr ""
+"Ce formulaire contient des caractères non valides dans l'identifiant du "
+"formulaire. Seules les lettres, numéros, et caractères de soulignement sont "
+"autorisés."
+
+#: .././administration.php:477 .././administration.php:583
+#: .././sm_functions.php:579
+msgid ""
+"There was a problem connecting to the ServiceMagic API.  Please try again "
+"soon or contact your Affiliate Representative."
+msgstr ""
+"Problème pour se connecter sur l'API. Réessayer ou contacter votre "
+"responsable 123devis."
+
+#: .././administration.php:563
+msgid ""
+"This form has invalid charachters in the form identifyer. Only letters, "
+"underscores and dashes are acceptable."
+msgstr ""
+"Ce formulaire contient des caractères non valides dans l'identifiant du "
+"formulaire. Seules les lettres, caractère de soulignement et tiret sont "
+"autorisés."
+
+#: .././sm_functions.php:99
+msgid "List of categories"
+msgstr "Liste des catégories"
+
+#: .././sm_functions.php:100
+msgid "List of activities"
+msgstr "Liste des activités"
+
+#: .././sm_functions.php:101
+msgid "Item"
+msgstr "Formulaire"
+
+#: .././sm_functions.php:102
+msgid "Saved sr Forms"
+msgstr "Formulaires SR définis"
+
+#: .././sm_functions.php:103
+msgid "Saved sp Forms"
+msgstr "Formulaires SP définis"
+
+#: .././sm_functions.php:389
+msgid "INTERNAL USAGE (Only visible internally) :"
+msgstr "USAGE INTERNE (Visible seulement en interne) :"
+
+#: .././sm_functions.php:395
+msgid "Check this box if you want this request to be filtered"
+msgstr "Cocher la case si cette demande ne doit pas être enregistrée"
+
+#: .././sm_functions.php:577
+msgid ""
+"The saved interview identifier is invalid, Please reselect the interview and "
+"save the form."
+msgstr ""
+"L'identifiant du formulaire est invalide. Veuillez choisir un autre "
+"formulaire et l'enregistrer."
+
+#: .././forms/embeddables_form_list.php:1
+msgid "Choose your Form"
+msgstr "Sélectionner un type d'affichage"
+
+#: .././forms/settings_api_thanks.php:2
+msgid "API url management"
+msgstr "Configuration de l’url API"
+
+#: .././forms/settings_api_thanks.php:3 .././forms/settings_creds_thanks.php:5
+msgid "Successful save"
+msgstr "Sauvegarde réussie"
+
+#: .././forms/settings_creds_thanks.php:3
+msgid "Settings"
+msgstr "Configuration"
+
+#: .././forms/settings_creds_thanks.php:4
+msgid "Login details"
+msgstr "Détails de connexion"
+
+#: .././forms/settings_creds_thanks.php:6
+msgid "Create a new Embeddable form?"
+msgstr "Créer un nouveau formulaire intégrable"
+
+#: .././forms/embeddable_sp.php:1
+msgid "ServiceMagic Trade Selection"
+msgstr "Choix de catégories 123devis"
+
+#: .././forms/embeddable_sp.php:4
+msgid "Choose at least one trade.  Click no checkboxes to show all trades."
+msgstr ""
+"Sélectionnez au moins une catégorie. Pour tout afficher, veuilllez ne rien "
+"sélectionner."
+
+#: .././forms/docs_root.php:2
+msgid "Learn how to use the Servicemagic API tool here"
+msgstr "Apprendre l'utilisation de l'outil API"
+
+#: .././forms/settings.php:7
+msgid "You are using the Servicemagic Wordpress plugin version"
+msgstr "Vous utilisez le plugin WordPress 123devis version"
+
+#: .././forms/settings.php:9
+msgid "You are logged in as"
+msgstr "Vous êtes connecté en tant que"
+
+#: .././forms/settings.php:16
+msgid "Please enter your ServiceMagic login and password."
+msgstr "Veuillez entrer vos identifiants 123devis."
+
+#: .././forms/settings.php:22
+msgid "Username"
+msgstr "Identifiant"
+
+#: .././forms/settings.php:26
+msgid "Password"
+msgstr "Mot de passe"
+
+#: .././forms/settings.php:30 .././forms/settings.php:38
+msgid "Locale"
+msgstr "Serveur"
+
+#: .././forms/settings.php:51
+msgid "Save Login Details"
+msgstr "Sauvegarder"
+
+#: .././forms/history.php:2
+msgid "Plugin History"
+msgstr "Historique du plugin"
+
+#: .././forms/history.php:5
+msgid "Data displayed per timezone"
+msgstr "Les données affichées par fuseau horaire"
+
+#: .././forms/history.php:7
+msgid "Manage your timezone setting in"
+msgstr "Gérez votre paramètre de fuseau horaire dans"
+
+#: .././forms/history.php:9
+msgid "Settings > General"
+msgstr "Réglages > Général"
+
+#: .././forms/embeddable_sr.php:1
+msgid "ServiceMagic Form Selection"
+msgstr "Sélection du formulaire 123devis"
+
+#: .././forms/embeddable_sr.php:4 .././forms/embeddable.php:120
+msgid "The form is currently set as :"
+msgstr "Formulaire sélectionné :"
+
+#: .././forms/embeddable_sr.php:5
+msgid "Change"
+msgstr "Modifier"
+
+#: .././forms/embeddable_sr.php:9
+msgid "First, choose a category"
+msgstr "Choisissez une catégorie"
+
+#: .././forms/embeddable_sr.php:11 .././forms/embeddable_sr.php:22
+#: .././forms/embeddable.php:121 .././forms/form_defaults.php:123
+#: .././forms/embed_sr_multiplude/info.php:4
+#: .././forms/embed_sr_basic/info.php:3
+#: .././forms/embed_sr_basic/more_form.php:59
+#: .././forms/embed_sp_basic/info.php:3 .././forms/embed_sr_2page/info.php:3
+#: .././forms/embed_sr_2page/more_form.php:79
+msgid "Choose"
+msgstr "Sélectionner"
+
+#: .././forms/embeddable_sr.php:20
+msgid "then pick an interview"
+msgstr "puis le formulaire"
+
+#: .././forms/embeddable.php:5
+msgid "New embeddable form"
+msgstr "Créer nouveau formulaire"
+
+#: .././forms/embeddable.php:7
+msgid "Editing Embeddable form"
+msgstr "Modifier le formulaire intégrable"
+
+#: .././forms/embeddable.php:13
+msgid "Configure the form"
+msgstr "Configurez le formulaire"
+
+#: .././forms/embeddable.php:20
+msgid "Form Info"
+msgstr "Informations sur le formulaire"
+
+#: .././forms/embeddable.php:22 .././forms/embeddables_list.php:34
+#: .././forms/embeddables_list.php:94
+msgid "Form name"
+msgstr "Nom du formulaire"
+
+#: .././forms/embeddable.php:27
+msgid "Form identifyer"
+msgstr "Identifiant formulaire"
+
+#: .././forms/embeddable.php:29
+msgid "Make Editable"
+msgstr "Rendre modifiable"
+
+#: .././forms/embeddable.php:30
+msgid ""
+"This field is used as the name in shortcodes that identify this form in "
+"pages and posts. If you change it here, please update all of your shortcodes "
+"accordingly."
+msgstr ""
+"Ce champ est utilisé dans le shortcode qui permet d'identifier ce formulaire "
+"dans les pages et les articles. Si vous le modifiez, veuillez mettre à jour "
+"ce shortcode dans toutes les pages et les articles l'utilisant."
+
+#: .././forms/embeddable.php:31
+msgid ""
+"This is the identifyer for this form used in shortcodes.  Typically, do not "
+"change."
+msgstr ""
+"Identifiant du formulaire utilisé dans le shortcode. Si vous le modifiez, "
+"pensez aussi à modifier les articles et les pages utilisant ce shortcode."
+
+#: .././forms/embeddable.php:47 .././forms/form_defaults.php:149
+msgid "Your tracking code"
+msgstr "Votre code de tracking"
+
+#: .././forms/embeddable.php:49
+msgid ""
+"This parameter allows you to track the results of this form independently "
+"from other forms."
+msgstr ""
+"Ce paramètre vous permet de dissocier les résultats de ce formulaire "
+"indépendamment des autres formulaires."
+
+#: .././forms/embeddable.php:55 .././forms/form_defaults.php:95
+msgid "Tracking pixel HTML"
+msgstr "Pixel de tracking HTML"
+
+#: .././forms/embeddable.php:58
+msgid "Default is blank"
+msgstr "Vide par défaut"
+
+#: .././forms/embeddable.php:60
+msgid "Default is set"
+msgstr "Défini par défaut"
+
+#: .././forms/embeddable.php:62
+msgid "edit the default"
+msgstr "Modifier la valeur par défaut"
+
+#: .././forms/embeddable.php:66
+msgid ""
+"Typically used with adwords, this parameter allows you to append javascript "
+"or html to the success/thanks messaging on submission."
+msgstr ""
+"Généralement utilisé avec Adwords, ce paramètre vous permet d'ajouter du "
+"html sur la page de confirmation."
+
+#: .././forms/embeddable.php:80
+msgid "Save Form"
+msgstr "Sauvegarder"
+
+#: .././forms/embeddable.php:98
+msgid "Choose again"
+msgstr "Rechoisir"
+
+#: .././forms/embeddable_thanks.php:6
+msgid "Back to previous list"
+msgstr "Retourner à la liste précédente"
+
+#: .././forms/embeddable_thanks.php:7 .././forms/embeddables_list.php:9
+#: .././forms/embeddables_list.php:11
+msgid "Create new form"
+msgstr "Créer un nouveau formulaire "
+
+#: .././forms/form_defaults.php:18
+msgid "Module Settings"
+msgstr "Configuration"
+
+#: .././forms/form_defaults.php:23
+msgid "Choose your country"
+msgstr "Choisissez votre pays"
+
+#: .././forms/form_defaults.php:26
+msgid "other"
+msgstr "autre"
+
+#: .././forms/form_defaults.php:32
+msgid "Temporarily disable API connections when slow"
+msgstr "Désactiver temporairement les connexions API en cas de lenteur."
+
+#: .././forms/form_defaults.php:39 .././forms/form_defaults.php:51
+#: .././forms/form_defaults.php:68
+msgid "Yes"
+msgstr "Oui"
+
+#: .././forms/form_defaults.php:43
+msgid "Clear all traces of plugin on deactivation"
+msgstr "Effacer toutes les traces du plugin en cas de désactivation."
+
+#: .././forms/form_defaults.php:54
+msgid ""
+"Check here if you wish all traces of the plugin to be removed when you "
+"deactivate the plugin."
+msgstr ""
+"Cochez cette case si vous souhaitez que toutes les traces du plugin soient "
+"enlevées lorsque vous désactiver le plugin."
+
+#: .././forms/form_defaults.php:60
+msgid "Allow this plugin to set a user cookie"
+msgstr "Autoriser ce plugin à placer un cookie utilisateur"
+
+#: .././forms/form_defaults.php:71
+msgid ""
+"Checking this box allows this plugin to set a cookie to track users on your "
+"site.  This helps ServiceMagic make improvements."
+msgstr ""
+"En cochant cette case, vous autorisez le plugin à placer un cookie pour "
+"tracer les utilisateurs de votre site. Cela aidera 123devis à procéder à des "
+"améliorations du plugin."
+
+#: .././forms/form_defaults.php:77
+msgid "API cache mechanism"
+msgstr "Mécanisme de cache API"
+
+#: .././forms/form_defaults.php:80
+msgid ""
+"The plugin will make a request to servicemagic.eu servers to see if the "
+"cached data is current.  This option while marginally slower ensures the "
+"data is always current."
+msgstr ""
+"Le plugin fera une requête aux serveurs 123devis.com pour voir si les "
+"données sont en cache. Cette option ralentit le site légerement, mais assure "
+"un fonctionnement optimal de l'extension."
+
+#: .././forms/form_defaults.php:84
+msgid ""
+"The plugin will use cached data if it exists.  It is possible that the user "
+"might  stale data and therefore see a code issue while submitting an "
+"interview."
+msgstr ""
+"Le plugin utilisera des données issues du cache s'il existe. Il est possible "
+"que l'utilisateur obtienne des données périmées et un message d'erreur s'il "
+"utilise cette option."
+
+#: .././forms/form_defaults.php:87
+msgid "Clear API Cache"
+msgstr "Vider le cache API"
+
+#: .././forms/form_defaults.php:97
+msgid ""
+"Typically used with adwords pixels, this parameter allows you to append html "
+"to the success/thanks messaging on submission(javascript will not work "
+"here). Leave blank to not use this feature."
+msgstr ""
+"Généralement utilisé avec Adwords, ce paramètre vous permet d'ajouter du "
+"html sur la page de confirmation (javascript ne fonctionnera pas). Laisser "
+"vide pour ne pas utiliser cette fonction."
+
+#: .././forms/form_defaults.php:102
+msgid "Generic pages"
+msgstr "Pages génériques"
+
+#: .././forms/form_defaults.php:105
+msgid "Title Page 'All activities'"
+msgstr "Titre de la page \"toutes activités\""
+
+#: .././forms/form_defaults.php:110
+msgid "Title Page 'categories list for one activity'"
+msgstr "Titre de la page \"liste de catégories\""
+
+#: .././forms/form_defaults.php:115
+msgid "Title Page 'generic form'"
+msgstr "Titre de la page \"formulaire générique\""
+
+#: .././forms/form_defaults.php:121
+msgid "Choose the generic form"
+msgstr "Choisir un formulaire générique"
+
+#: .././forms/form_defaults.php:133
+msgid "You must create a generic form for generate the generic pages."
+msgstr ""
+"Vous devez créer un formulaire générique pour générer les pages génériques."
+
+#: .././forms/form_defaults.php:139
+msgid "Save Generic pages"
+msgstr "Sauvegarder les pages génériques"
+
+#: .././forms/form_defaults.php:145
+msgid "Manage Form Appearance"
+msgstr "Gestion de l’apparence des formulaires"
+
+#: .././forms/form_defaults.php:146
+msgid "Customize the form's appearance"
+msgstr "Personnalisez l’apparence des formulaires"
+
+#: .././forms/form_defaults.php:151
+msgid ""
+"This parameter allows you to track the results of default forms "
+"independently from other forms."
+msgstr ""
+"Ce paramètre vous permet de dissocier les résultats indépendamment dans les "
+"rapports."
+
+#: .././forms/form_defaults.php:155
+msgid "Thank you message on Service Request form submission"
+msgstr "Message de remerciement sur le formulaire de demande de devis"
+
+#: .././forms/form_defaults.php:161
+msgid "Thank you message on Service Provider form submission"
+msgstr "Message de remerciement sur le formulaire d'inscription de pros"
+
+#: .././forms/form_defaults.php:167
+msgid "Font size"
+msgstr "Taille de police"
+
+#: .././forms/form_defaults.php:169 .././forms/form_defaults.php:198
+msgid "Default"
+msgstr "Défaut"
+
+#: .././forms/form_defaults.php:182
+msgid "Font color"
+msgstr "Couleur de police"
+
+#: .././forms/form_defaults.php:184 .././forms/form_defaults.php:190
+msgid "Reset default"
+msgstr "Réinitialiser"
+
+#: .././forms/form_defaults.php:188
+msgid "Section background"
+msgstr "Couleur de fond"
+
+#: .././forms/form_defaults.php:194
+msgid "Changing form design"
+msgstr "Modification du design du formulaire"
+
+#: .././forms/form_defaults.php:201
+msgid "Design 2"
+msgstr "Design 2"
+
+#: .././forms/form_defaults.php:207
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: .././forms/form_defaults.php:224
+msgid "clearing..."
+msgstr "en train de vider..."
+
+#: .././forms/form_defaults.php:230
+msgid "files cleared"
+msgstr "cache supprimés"
+
+#: .././forms/form_defaults.php:263
+msgid "saving..."
+msgstr "sauvegarde..."
+
+#: .././forms/form_defaults.php:274
+msgid "Generics pages saved"
+msgstr "Pages génériques enregistrées"
+
+#: .././forms/form_defaults_thanks.php:2
+msgid "Update Successful"
+msgstr "Sauvegarde réussie"
+
+#: .././forms/embeddables_list.php:4
+msgid ""
+"Here you can create and edit ServiceMagic forms with available parameters "
+"and then easily embed them into posts via shortcodes"
+msgstr ""
+"Créez et éditez ici vos formulaires 123devis. Vous pouvez les intégrer dans "
+"les articles à l'aide de shortcodes."
+
+#: .././forms/embeddables_list.php:9
+msgid "No forms saved."
+msgstr "Pas de formulaire sauvegardé"
+
+#: .././forms/embeddables_list.php:16
+msgid "Service Request Forms"
+msgstr "Formulaires de demandes de devis"
+
+#: .././forms/embeddables_list.php:26 .././forms/embeddables_list.php:87
+msgid "Show archived"
+msgstr "Voir les formulaires archivés"
+
+#: .././forms/embeddables_list.php:35 .././forms/embeddables_list.php:95
+msgid "View"
+msgstr "Affichage"
+
+#: .././forms/embeddables_list.php:36
+msgid "ServiceMagic Activity"
+msgstr "Catégories 123devis"
+
+#: .././forms/embeddables_list.php:37 .././forms/embeddables_list.php:97
+msgid "Created/Edited"
+msgstr "Créé/Dernière modification"
+
+#: .././forms/embeddables_list.php:50 .././forms/embeddables_list.php:110
+msgid "Archived"
+msgstr "Archivé"
+
+#: .././forms/embeddables_list.php:54 .././forms/embeddables_list.php:114
+msgid "Un archive"
+msgstr "Désarchiver "
+
+#: .././forms/embeddables_list.php:55 .././forms/embeddables_list.php:115
+msgid "Delete"
+msgstr "Supprimer "
+
+#: .././forms/embeddables_list.php:57 .././forms/embeddables_list.php:117
+msgid "Edit"
+msgstr "Éditer"
+
+#: .././forms/embeddables_list.php:58 .././forms/embeddables_list.php:118
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: .././forms/embeddables_list.php:59 .././forms/embeddables_list.php:119
+msgid "Archive"
+msgstr "Archiver"
+
+#: .././forms/embeddables_list.php:77
+msgid "Service Provider Forms"
+msgstr "Formulaires d'inscription d'artisans"
+
+#: .././forms/embeddables_list.php:96
+msgid "ServiceMagic Trades"
+msgstr "Catégories 123devis"
+
+#: .././forms/embeddables_list.php:134
+msgid "Tip : To embed a form, copy the shortcode and paste it into a post."
+msgstr ""
+"Pour intégrer un formulaire, veuillez copier le shortcode et le coller dans "
+"un article."
+
+#: .././forms/embeddables_list.php:144
+msgid "1. Copy Shortcode (Ctrl+C)"
+msgstr "1. Copier le shortcode (Ctrl+C)"
+
+#: .././forms/embeddables_list.php:144
+msgid "2. Close popup (Enter)"
+msgstr "2. Fermer le popup (Entrée)"
+
+#: .././forms/embeddables_list.php:144
+msgid "3. Navigate to a post or page"
+msgstr "3. Ouvrir un article ou une page"
+
+#: .././forms/embeddables_list.php:144
+msgid "4. Paste into content (Ctrl+V)"
+msgstr "4. Coller le shortcode dans le contenu (Ctrl+V)"
+
+#: .././forms/embeddables_list.php:149
+msgid "Confirm you wish to delete this item permanently"
+msgstr "Voulez-vous supprimer définitivement ce formulaire"
+
+#: .././forms/embeddables_list.php:150
+msgid "Confirm you wish to archive this item"
+msgstr "Confirmez que vous souhaitez archiver ce formulaire"
+
+#: .././forms/embeddables_list.php:151
+msgid "Confirm you wish to de-archive this item"
+msgstr "Confirmez que vous souhaitez désarchiver ce formulaire"
+
+#: .././forms/embeddables_list.php:168
+msgid "basic"
+msgstr "basique"
+
+#: .././forms/embed_sr_multiplude/validation.php:6
+msgid "Issue with form configuration, missing steps or q_in_col"
+msgstr ""
+"Problème de configuration du formulaire, étapes manquantes ou formulaire "
+"invalide"
+
+#: .././forms/embed_sr_multiplude/info.php:2
+msgid "\"User Config\" presentation"
+msgstr "Affichage personnalisé"
+
+#: .././forms/embed_sr_multiplude/info.php:3
+msgid ""
+"This presentation allows the admin to configure most things about a form "
+"including creating multiple steps."
+msgstr ""
+"Cette affichage permet à l'administrateur de personnaliser l'affichage du "
+"formulaire y compris la possibilité de rajouter des étapes."
+
+#: .././forms/embed_sr_multiplude/info.php:4
+msgid "This form presentation is in BETA"
+msgstr "Cette présentation est en BETA"
+
+#: .././forms/embed_sr_multiplude/more_form.php:4
+#: .././forms/embed_sr_2page/more_form.php:27
+msgid "Text on the \"Next\" button"
+msgstr "Libellé du bouton \"Suivant\""
+
+#: .././forms/embed_sr_multiplude/more_form.php:6
+#: .././forms/embed_sr_2page/more_form.php:29
+msgid "Defaults to \"Next\"."
+msgstr "par défaut : \"Suivant\""
+
+#: .././forms/embed_sr_multiplude/more_form.php:18
+#: .././forms/embed_sr_basic/more_form.php:21
+#: .././forms/embed_sp_basic/more_form.php:24
+#: .././forms/embed_sr_2page/more_form.php:41
+msgid "Text on the \"Submit\" button"
+msgstr "Libellé du bouton \"Valider\""
+
+#: .././forms/embed_sr_multiplude/more_form.php:20
+#: .././forms/embed_sr_basic/more_form.php:23
+#: .././forms/embed_sp_basic/more_form.php:26
+#: .././forms/embed_sr_2page/more_form.php:43
+msgid "Defaults to \"Get quotes\"."
+msgstr "Par défaut : \"Valider\""
+
+#: .././forms/embed_sr_basic/validation.php:2
+#: .././forms/embed_sr_2page/validation.php:2
+msgid "Choose whether to show all fields"
+msgstr "Choisir ou non si vous voulez afficher tous les champs"
+
+#: .././forms/embed_sr_basic/validation.php:6
+#: .././forms/embed_sr_2page/validation.php:6
+msgid "All defaulted values must have a value"
+msgstr "Les valeurs par défaut ont besoin d'une valeur"
+
+#: .././forms/embed_sr_basic/info.php:1
+msgid "\"Basic\" Service Request"
+msgstr "Formulaires basiques de demandes de devis"
+
+#: .././forms/embed_sr_basic/info.php:2 .././forms/embed_sp_basic/info.php:2
+msgid "This presentation has the whole form on one page."
+msgstr "Cette présentation contient le formulaire complet sur une seule page."
+
+#: .././forms/embed_sr_basic/more_form.php:2
+#: .././forms/embed_sp_basic/more_form.php:2
+#: .././forms/embed_sr_2page/more_form.php:2
+msgid "Display Options"
+msgstr "Options d'affichage"
+
+#: .././forms/embed_sr_basic/more_form.php:6
+#: .././forms/embed_sr_2page/more_form.php:6
+msgid "Show only required fields"
+msgstr "Afficher seulement les champs obligatoires"
+
+#: .././forms/embed_sr_basic/more_form.php:10
+#: .././forms/embed_sr_2page/more_form.php:10
+msgid "Show all fields"
+msgstr "Afficher tous les champs"
+
+#: .././forms/embed_sr_basic/more_form.php:15
+#: .././forms/embed_sp_basic/more_form.php:19
+msgid "Add text above the form"
+msgstr "Ajouter du texte au dessus du formulaire"
+
+#: .././forms/embed_sr_basic/more_form.php:17
+#: .././forms/embed_sr_2page/more_form.php:17
+#: .././forms/embed_sr_2page/more_form.php:23
+msgid "Replaceable strings : [id], [title]"
+msgstr "Variables : [id], [title]"
+
+#: .././forms/embed_sr_basic/more_form.php:27
+#: .././forms/embed_sr_2page/more_form.php:47
+msgid "Form field defaults"
+msgstr "Champs par défaut"
+
+#: .././forms/embed_sr_basic/more_form.php:30
+#: .././forms/embed_sr_2page/more_form.php:50
+msgid ""
+"If you provide a default, that form will not be shown to the consumer and "
+"the API will submit that value."
+msgstr ""
+"Si vous fournissez une valeur par défaut, ce formulaire ne sera pas montré "
+"au consommateur et l'API soumettra cette valeur."
+
+#: .././forms/embed_sr_basic/more_form.php:76
+#: .././forms/embed_sr_2page/more_form.php:97
+msgid "Save and re-edit to set defaults."
+msgstr ""
+"Sauvegardez puis éditez à nouveau pour avoir les paramètres par défaut."
+
+#: .././forms/embed_sp_basic/info.php:1
+msgid "\"Basic\" Service Provider"
+msgstr "Formulaires basiques d'inscription de pros"
+
+#: .././forms/embed_sp_basic/more_form.php:5
+msgid ""
+"If multiple categories are checked above, how would you like them presented "
+"to the user?"
+msgstr "Comment voulez-vous présenter la liste des catégories ?"
+
+#: .././forms/embed_sp_basic/more_form.php:9
+msgid "Radio button options"
+msgstr "Boutons radio"
+
+#: .././forms/embed_sp_basic/more_form.php:14
+msgid "Select dropdown"
+msgstr "Liste déroulante"
+
+#: .././forms/embed_sr_2page/info.php:1
+msgid "\"2 Step\" Service Request"
+msgstr " Formulaires en 2 étapes de demandes de devis"
+
+#: .././forms/embed_sr_2page/info.php:2
+msgid ""
+"This presentation breaks the form into two steps. The first step includes "
+"the job description and the second step is for the customer's contact "
+"details."
+msgstr ""
+"Cette affichage sépare le formulaire en 2 étapes. La première étape contient "
+"la description des travaux à faire et la deuxième étape contient les "
+"informations personnelles du demandeur de devis."
+
+#: .././forms/embed_sr_2page/more_form.php:15
+msgid "Add text to top of the first step"
+msgstr "Texte en haut de la première étape"
+
+#: .././forms/embed_sr_2page/more_form.php:21
+msgid "Add text to top of the second step"
+msgstr "Texte en haut de la seconde étape"
+
+#~ msgid "Form"
+#~ msgstr "Nom du formulaire"
+
+#~ msgid "Replaceble strings : [id], [title]"
+#~ msgstr "Variables : [id], [title]"
+
+#~ msgid "Request is for Internal Useage?"
+#~ msgstr "USAGE INTERNE : Cocher Oui si ce devis ne doit pas être enregistré"
+
+#~ msgid "No"
+#~ msgstr "Non"
+
+#~ msgid "Please select an KWID"
+#~ msgstr "Veuillez sélectionner un KWID"
+
+#~ msgid "KWID to use"
+#~ msgstr "KWID à utiliser"
+
+#~ msgid "Help/Suggestions"
+#~ msgstr "Premiers pas, aide et suggestion"
+
+#, fuzzy
+#~ msgid "Not yet available"
+#~ msgstr "Formulaire non disponible"
+
+#~ msgid "This Name is too short"
+#~ msgstr "Le nom est trop court"
+
+#~ msgid "\"One at a time\" Service Request"
+#~ msgstr "Demande de devis \"une question à la fois\""
+
+#~ msgid ""
+#~ "This presentation makes a long list of questions that get shown one at a "
+#~ "time. The state is shown in the side.  Good for small areas."
+#~ msgstr ""
+#~ "Cette présentation permet une longue liste de questions s'affichant une "
+#~ "par une. L'état est présenté sur le côté. Bon pour les petites surfaces."
+
+#~ msgid "Form Name"
+#~ msgstr "Nom du formulaire"
+
+#~ msgid "Form options"
+#~ msgstr "Options"
+
+#~ msgid "Default Successful Submission Text Addition"
+#~ msgstr "HTML Pour Ajoute au Message de Success Default "
+
+#~ msgid "Successful Submission Text Addition"
+#~ msgstr "Succès Ajout du texte de soumission"
+
+#~ msgid "\"2 Step\" presentation"
+#~ msgstr "Affichage sur 2 pages"
+
+#~ msgid "\"Basic\" presentation"
+#~ msgstr "Affichage normale"
+
+#~ msgid "Remove"
+#~ msgstr "Supprimer"
+
+#~ msgid "Configure which server to gather and submit data to."
+#~ msgstr "Configurer le serveur vers lequel poster les datas."
+
+#~ msgid "Save API Url"
+#~ msgstr "Sauvegarder"
+
+#~ msgid "Please select a Label"
+#~ msgstr "Choisisr une libelle"
+
+#, fuzzy
+#~ msgid "Name"
+#~ msgstr "Nom du formulaire"
+
+#~ msgid "Successfully updated"
+#~ msgstr "Sauvegarde réussie"
+
+#~ msgid "Form Optionsx"
+#~ msgstr "Options formulairesacc"
+
+#, fuzzy
+#~ msgid "Successfully Updated"
+#~ msgstr "Sauvegarde réussie"

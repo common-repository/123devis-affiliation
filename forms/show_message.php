@@ -1,0 +1,1 @@
+<?php sm_show_messages($messages);?>
